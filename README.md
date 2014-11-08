@@ -1,7 +1,7 @@
 ![](http://lorenzostella.it/git/icon-50.png) Whatsapp Blue
 =============
 
-This project it's in its early development stage. Come back later! :squirrel:
+This project is in its early development stage. Come back later! :squirrel:
 
 New here and want to contribute? Take a moment to read the [wiki](https://github.com/phosphore/whatsapp-blue/wiki)!
 
