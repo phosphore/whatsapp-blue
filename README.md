@@ -1,4 +1,4 @@
-whatsapp-blue
+Whatsapp Blue
 =============
 
 This project it's in its early development stage. Come back later! :squirrel:
