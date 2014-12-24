@@ -5,6 +5,10 @@ This project is in its early development stage. Come back later!
 
 New here and want to contribute? Take a moment to read the [wiki](https://github.com/phosphore/whatsapp-blue/wiki)!
 
+**UPDATE** 11.18.14:
+[Whatsapp Just Switched on End-to-End Encryption](http://www.wired.com/2014/11/whatsapp-encrypted-messaging/)
+
+
 * * *
 
 
